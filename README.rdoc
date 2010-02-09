@@ -25,3 +25,7 @@ Enter - Play/Pause
 
 Arrows - Move across the infinte board
 
+== Appology
+
+The interface and documenation is almost purely in Bulgarian. I might translate it someday.
+
