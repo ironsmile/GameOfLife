@@ -1,0 +1,27 @@
+== Introduction
+
+Just an implementation of Conway's Game of Life.
+
+You can define your own rules instead of the default
+
+There is a mode in which some persistent lifeforms will be coloured but it doesn't work so good. Read - it is CPU hungry bitch with the current implementation.
+
+If you really, really want to try it - you can define your own lifeforms in the patterns file.
+
+Legend on what is what there:
+
+  '-' means the cell MUST be unpopulated
+  'o' means the cell MUST be populated
+  '*' wildcard
+
+
+== Requirements
+
+* Python >= 2.5 with Tkinter
+
+== Controls
+
+Enter - Play/Pause
+
+Arrows - Move across the infinte board
+
